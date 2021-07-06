@@ -1,6 +1,3 @@
----
-description: Learn how to get started with Roku and enjoy all of its awesome feature
----
 
 # Getting started with Roku
 
