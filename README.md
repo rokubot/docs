@@ -1,23 +1,28 @@
-# Changelog
+---
+description: Learn how to get started with Roku and enjoy all of its awesome feature
+---
 
-## V0.9.6 - 2021-06-03
+# Getting started with Roku
 
-### Added
+## Inviting Roku to your discord server
 
-*  Added `noxpchannel` command. 
-*  Added `xpchannel` command.
-*  Added **`premium`** command. 
-*  Added `autorole delay`
-*  Added `welcome fontlist` and `welcome font` command.
+You can invite roku by [clicking here](https://rokubot.xyz/invite).  
+After Inviting the bot, you can see the bot in member list
 
-### Changed
+![](.gitbook/assets/umgatf1-1-.png)
 
-* Removed `snipe`, `editsnipe`, `snipe menu`, `snipe clear` commands
-* Changed Auto role max roles from 5 to 15 roles in free tier.
+## Using Roku
 
-### Fixed
+Using Roku is very simple.   
+Prefix of Roku is `Ro` 
 
-* Roku leaving Voice Channel after 5 minutes was fixed.
+`Ro help` will give you a help menu.  
+You can see entire command list using `Ro commands`
 
+You can use `Ro help [command | category]` for more info on a command or a category.
 
+{% hint style="info" %}
+Do not include `<>`, `[ ]`while using commands  
+&lt;&gt; means required,`[ ]` means optional
+{% endhint %}
 
