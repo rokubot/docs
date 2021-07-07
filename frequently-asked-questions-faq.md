@@ -21,7 +21,7 @@ You need to turn on **embed** **OR** **image edit** for bot to send welcome imag
 * The bot is lacking perms on the channel. So she wouldn't appear on the member list on that channel.
 * Quick fix for this is to go to **Server Settings** &gt; **Roles** &gt; Select **Roku** role and tick on the **Administrator** permission so she can view all channels!
 
-![Giving Admin Role to Roku](../.gitbook/assets/wgude3s-1-.png)
+![Giving Admin Role to Roku](.gitbook/assets/wgude3s-1-.png)
 
 ## What is autorole in Roku? \(usecase\)
 
