@@ -1,4 +1,3 @@
-
 # Getting started with Roku
 
 ## Inviting Roku to your discord server
